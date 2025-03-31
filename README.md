@@ -1,19 +1,18 @@
-![Alessandra Jorquera Banner](<a href="https://ibb.co/ycTL3HWq"><img src="https://i.ibb.co/212XbGgd/6428197.jpg" alt="6428197" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>photo 3 4</a><br />)
+<a href="https://ibb.co/ycTL3HWq"><img src="https://i.ibb.co/212XbGgd/6428197.jpg" alt="6428197" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 <h2>Hey there! I'm Alessandra</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+### 👩🏻‍💻 &nbsp;About Me
 
-### 👨🏻‍💻 &nbsp;About Me
+💡 &nbsp;I love exploring new technologies and developing creative solutions.\
+🎓 &nbsp;I'm an Industrial Designer and currently pursuing a PhD.\
+🌱 &nbsp;I'm passionate about Data Analysis, 3D Design, and Human-Machine Interaction.\
+✍️ &nbsp;In my free time, I work on photography-related projects and small business ventures.\
+💬 &nbsp;Feel free to reach out to me for discussions on design, data, or creative projects.\
+✉️ &nbsp;You can contact me at your-email@example.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Check out my [Portfolio](#) for more details about my work. I'm always open to collaboration!
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
