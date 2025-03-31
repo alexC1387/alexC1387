@@ -1,17 +1,21 @@
-<a href="https://ibb.co/ycTL3HWq"><img src="https://i.ibb.co/212XbGgd/6428197.jpg" alt="6428197" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://ibb.co/ycTL3HWq"><img src="https://i.ibb.co/212XbGgd/6428197.jpg" alt="6428197" border="0"></a>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 <h2>Hey there! I'm Alessandra</h2>
 
 ### 👩🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I love exploring new technologies and developing creative solutions.\
-🎓 &nbsp;I'm an Industrial Designer and currently pursuing a PhD.\
-🌱 &nbsp;I'm passionate about Data Analysis, 3D Design, and Human-Machine Interaction.\
-✍️ &nbsp;In my free time, I work on photography-related projects and small business ventures.\
-💬 &nbsp;Feel free to reach out to me for discussions on design, data, or creative projects.\
-✉️ &nbsp;You can contact me at your-email@example.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Check out my [Portfolio](#) for more details about my work. I'm always open to collaboration!
+💡 &nbsp;Data analyst with a background in Industrial Design, skilled in Python, SQL, and data visualization.  
+🌱 &nbsp;Passionate about turning data into actionable insights.  
+💬 &nbsp;Always eager to collaborate on data-driven projects.  
+✉️ &nbsp;Contact me at [alessandra.idesigner@gmail.com](mailto:alessandra.idesigner@gmail.com).  
+📄 &nbsp;Visit my [GitHub](https://github.com/alexC1387) or my [Tableau Public](https://public.tableau.com/app/profile/alessandra.jorquera/viz/Sprint14_Alessandra/Dashboard2) for more work samples.
+
+### 🛠 &nbsp;Skills
+
+**Technical Skills:** Python | SQL | Data Wrangling | GitHub | Tableau | Plotly | Matplotlib | Dash | Excel  
+**Design Software:** Illustrator | InDesign | Photoshop | SolidWorks | AutoCAD | KeyShot | Premiere Pro  
+**Languages:** English (Proficient) | Spanish (Native)
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
