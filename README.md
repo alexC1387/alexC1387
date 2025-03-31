@@ -17,22 +17,7 @@
 **Design Software:** Illustrator | InDesign | Photoshop | SolidWorks | AutoCAD | KeyShot | Premiere Pro  
 **Languages:** English (Proficient) | Spanish (Native)
 
+### 🛠 &nbsp;Technologies Used
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+Python, Jupyter Notebooks, Tableau (pandas, matplotlib, seaborn, numpy, scipy.stats, sqlalchemy).
 
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-
------
-Credits: [Alessandra Jorquera](https://github.com/alexC1387)
-
-Last Edited on: 30/03/2025
